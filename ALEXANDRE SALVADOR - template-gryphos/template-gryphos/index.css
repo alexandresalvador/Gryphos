@@ -1,0 +1,56 @@
+body{
+background-color: #1C2230;
+}
+
+.menu-principal {
+background-color: #1C2230;
+height: 60px;
+
+}
+
+main {
+margin: 0 auto;
+width: 980px;
+position: relative;
+
+}
+
+.logo {
+float: left;    
+padding: 5px;
+width: 70%;
+
+}
+
+.options ul li {
+    color: white;
+    display: inline-block;
+    float: left;
+    list-style: none;
+}
+
+.options ul li {
+
+width: 10%;
+ float: left;
+
+}
+
+.imagem1 {
+
+padding: 80px;
+
+}
+
+.texto1 {
+
+color: white;
+    
+    }
+
+.texto2 {
+
+color: white;
+
+        
+        }
